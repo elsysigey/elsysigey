@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Elsie Sigey
-
+A Certified and Passionate Data Analyst who Transforms Raw Data into Actionable Insights for Informed Decision-Making
 <!--
 **elsysigey/elsysigey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
