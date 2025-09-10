@@ -1,5 +1,11 @@
 ## Hi there 👋 My name is Elsie Sigey
 A Certified and Passionate Data Analyst who Transforms Raw Data into Actionable Insights for Informed Decision-Making
+  
+  🎓 Student specializing in Data Science 
+  📊 Completed Data Analytics program 
+  💡 Interested in Machine Learning, Business Intelligence, and Applied Statistics
+  🌱 Currently learning: SQL, Python for ML, Power BI
+  🚀 Aspiring Data Analyst → Data Scientist
 <!--
 **elsysigey/elsysigey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
